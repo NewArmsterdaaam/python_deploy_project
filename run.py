@@ -1,5 +1,8 @@
 import time
 
-for i in range(5):
+print("script success!!")
+
+for i in range(3):
     print(i)
-    time.sleep(5)
+    time.sleep(3)
+
